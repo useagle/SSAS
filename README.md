@@ -1,0 +1,2 @@
+# SSAS
+Analysis Services projects
