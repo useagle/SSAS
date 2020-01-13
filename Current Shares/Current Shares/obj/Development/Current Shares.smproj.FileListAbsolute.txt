@@ -1,0 +1,6 @@
+C:\VisualStudio\SSAS\Current Shares\Current Shares\bin\Current Shares.asdatabase
+C:\VisualStudio\SSAS\Current Shares\Current Shares\bin\Current Shares.deploymenttargets
+C:\VisualStudio\SSAS\Current Shares\Current Shares\bin\Current Shares.deploymentoptions
+C:\VisualStudio\SSAS\Current Shares\Current Shares\obj\Development\Current Shares.asdatabase
+C:\VisualStudio\SSAS\Current Shares\Current Shares\obj\Development\Current Shares.deploymentoptions
+C:\VisualStudio\SSAS\Current Shares\Current Shares\obj\Development\Current Shares.deploymenttargets

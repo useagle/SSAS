@@ -1,0 +1,12 @@
+C:\VisualStudio\Loan\Loan\bin\Current Loans.asdatabase
+C:\VisualStudio\Loan\Loan\bin\Current Loans.deploymenttargets
+C:\VisualStudio\Loan\Loan\bin\Current Loans.deploymentoptions
+C:\VisualStudio\Loan\Loan\obj\Development\Current Loans.asdatabase
+C:\VisualStudio\Loan\Loan\obj\Development\Current Loans.deploymentoptions
+C:\VisualStudio\Loan\Loan\obj\Development\Current Loans.deploymenttargets
+C:\VisualStudio\Current Loans\Loan\bin\Current Loans.asdatabase
+C:\VisualStudio\Current Loans\Loan\bin\Current Loans.deploymenttargets
+C:\VisualStudio\Current Loans\Loan\bin\Current Loans.deploymentoptions
+C:\VisualStudio\Current Loans\Loan\obj\Development\Current Loans.asdatabase
+C:\VisualStudio\Current Loans\Loan\obj\Development\Current Loans.deploymentoptions
+C:\VisualStudio\Current Loans\Loan\obj\Development\Current Loans.deploymenttargets

@@ -1,0 +1,6 @@
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\bin\Current Accounts.asdatabase
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\bin\Current Accounts.deploymenttargets
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\bin\Current Accounts.deploymentoptions
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\obj\Development\Current Accounts.asdatabase
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\obj\Development\Current Accounts.deploymentoptions
+C:\VisualStudio\SSAS\Current Accounts\Current Accounts\obj\Development\Current Accounts.deploymenttargets

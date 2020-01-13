@@ -1,0 +1,6 @@
+C:\VisualStudio\SSAS\Current Members\Current Members\bin\Current Members.asdatabase
+C:\VisualStudio\SSAS\Current Members\Current Members\bin\Current Members.deploymenttargets
+C:\VisualStudio\SSAS\Current Members\Current Members\bin\Current Members.deploymentoptions
+C:\VisualStudio\SSAS\Current Members\Current Members\obj\Development\Current Members.asdatabase
+C:\VisualStudio\SSAS\Current Members\Current Members\obj\Development\Current Members.deploymentoptions
+C:\VisualStudio\SSAS\Current Members\Current Members\obj\Development\Current Members.deploymenttargets
