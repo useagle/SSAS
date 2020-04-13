@@ -1,6 +1,0 @@
-C:\VisualStudio\SSAS\Transactions\Transactions\bin\Transactions.asdatabase
-C:\VisualStudio\SSAS\Transactions\Transactions\bin\Transactions.deploymenttargets
-C:\VisualStudio\SSAS\Transactions\Transactions\bin\Transactions.deploymentoptions
-C:\VisualStudio\SSAS\Transactions\Transactions\obj\Development\Transactions.asdatabase
-C:\VisualStudio\SSAS\Transactions\Transactions\obj\Development\Transactions.deploymentoptions
-C:\VisualStudio\SSAS\Transactions\Transactions\obj\Development\Transactions.deploymenttargets

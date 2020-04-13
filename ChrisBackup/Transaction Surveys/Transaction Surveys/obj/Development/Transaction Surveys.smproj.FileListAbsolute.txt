@@ -1,0 +1,6 @@
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\bin\Transaction Surveys.asdatabase
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\bin\Transaction Surveys.deploymenttargets
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\bin\Transaction Surveys.deploymentoptions
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\obj\Development\Transaction Surveys.asdatabase
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\obj\Development\Transaction Surveys.deploymentoptions
+C:\VisualStudio\SSAS\Transaction Surveys\Transaction Surveys\obj\Development\Transaction Surveys.deploymenttargets

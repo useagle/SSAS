@@ -1,6 +1,0 @@
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\bin\Balance Sheet.asdatabase
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\bin\Balance Sheet.deploymenttargets
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\bin\Balance Sheet.deploymentoptions
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\obj\Development\Balance Sheet.asdatabase
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\obj\Development\Balance Sheet.deploymentoptions
-C:\VisualStudio\SSAS\Balance Sheet\Balance Sheet\obj\Development\Balance Sheet.deploymenttargets

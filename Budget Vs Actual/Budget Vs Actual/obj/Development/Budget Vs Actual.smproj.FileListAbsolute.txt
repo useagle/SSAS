@@ -1,6 +1,0 @@
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\bin\Budget Vs Actual.asdatabase
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\bin\Budget Vs Actual.deploymenttargets
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\bin\Budget Vs Actual.deploymentoptions
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\obj\Development\Budget Vs Actual.asdatabase
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\obj\Development\Budget Vs Actual.deploymentoptions
-C:\VisualStudio\SSAS\Budget Vs Actual\Budget Vs Actual\obj\Development\Budget Vs Actual.deploymenttargets
