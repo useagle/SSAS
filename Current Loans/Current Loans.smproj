@@ -13,11 +13,11 @@
   <PropertyGroup Condition=" '$(Configuration)' == 'Development' ">
     <OutputPath>bin\</OutputPath>
     <DeploymentServerName>ARCU\TABULAR</DeploymentServerName>
-    <DeploymentServerEdition>Developer</DeploymentServerEdition>
+    <DeploymentServerEdition>Enterprise</DeploymentServerEdition>
     <DeploymentServerVersion>Unknown</DeploymentServerVersion>
-    <DeploymentServerDatabase>Current Loans</DeploymentServerDatabase>
+    <DeploymentServerDatabase>Current Loans Test</DeploymentServerDatabase>
     <DeploymentServerCubeName>Model</DeploymentServerCubeName>
-    <DeploymentOptionProcessing>Default</DeploymentOptionProcessing>
+    <DeploymentOptionProcessing>Full</DeploymentOptionProcessing>
     <DeploymentOptionTransactionalDeployment>False</DeploymentOptionTransactionalDeployment>
     <DeploymentOptionADALCache>Default</DeploymentOptionADALCache>
     <DeploymentOptionDirectQueryMode>InMemory</DeploymentOptionDirectQueryMode>
