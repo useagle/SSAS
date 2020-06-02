@@ -15,7 +15,7 @@
     <DeploymentServerName>ARCU\TABULAR</DeploymentServerName>
     <DeploymentServerEdition>Enterprise</DeploymentServerEdition>
     <DeploymentServerVersion>Unknown</DeploymentServerVersion>
-    <DeploymentServerDatabase>Current Loans Test</DeploymentServerDatabase>
+    <DeploymentServerDatabase>Current Loans</DeploymentServerDatabase>
     <DeploymentServerCubeName>Model</DeploymentServerCubeName>
     <DeploymentOptionProcessing>Full</DeploymentOptionProcessing>
     <DeploymentOptionTransactionalDeployment>False</DeploymentOptionTransactionalDeployment>
